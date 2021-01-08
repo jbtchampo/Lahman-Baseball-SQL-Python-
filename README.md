@@ -4,8 +4,7 @@
 - you can find a data dictionary [here](http://www.seanlahman.com/files/database/readme2016.txt)
 
 ## Use _PANDAS_ to find answers to the questions.
-You heard right!
-We've been through this before..
+
 First with SQL, now with python/pandas.
 
 With this, comes some rules.
