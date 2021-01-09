@@ -1,10 +1,10 @@
-# Lahman-Baseball-SQL-Python
-
+# Lahman Baseball Database Exercise
 - these data have been made available [online](http://www.seanlahman.com/baseball-archive/statistics/) by Sean Lahman
 - you can find a data dictionary [here](http://www.seanlahman.com/files/database/readme2016.txt)
 
 ## Use _PANDAS_ to find answers to the questions.
-
+You heard right!
+We've been through this before..
 First with SQL, now with python/pandas.
 
 With this, comes some rules.
@@ -72,4 +72,3 @@ _these are just a subset of questions from the original Lahman Baseball exercise
    a. First, determine just how rare left-handed pitchers are compared with right-handed pitchers.
    b. Are left-handed pitchers more likely to win the Cy Young Award?
    c. Are they more likely to make it into the hall of fame?
-
